@@ -1,2 +1,2 @@
 # linkedin-job-apply
-This applications can be used to apply for jobs in LinkedIN.
+This applications can was completed on Day 49 of #100DaysOfCodeChallenge"
